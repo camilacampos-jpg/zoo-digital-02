@@ -1,4 +1,4 @@
-# zoo-digital-02
+
 Zoo Digital Maven (CLI)
 
 👩‍💻 Integrantes
